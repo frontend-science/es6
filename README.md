@@ -5,6 +5,8 @@
 * https://goo.gl/o8EP24 - Слайды из доклада :)
 * http://frontend-science.com/ Front-end Science
 * https://kangax.github.io/compat-table/es6/ - табличка совместимости
+* https://github.com/paulkogel/simple-babel-webpack-template - готовый шаблон для новичков с минимальным функционалом Babel + Webpack + React
+* https://github.com/este/este - очень функциональный шаблон (не для новичков)
 * https://github.com/ericdouglas/ES6-Learning - огромная база полезных ресурсов!
 * http://css-live.ru/articles/obzor-es6-v-350-punktax.html - краткий обзор фич стандарта
 * https://learn.javascript.ru/es-modern - удобный и всеми любимый учебник
