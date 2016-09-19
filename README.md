@@ -5,14 +5,17 @@
 * https://goo.gl/o8EP24 - Слайды из доклада :)
 * http://frontend-science.com/ Front-end Science
 * https://kangax.github.io/compat-table/es6/ - табличка совместимости
+* http://es6-features.org/ - краткие примеры по каждой фиче и сравнение их с аналогами на старом стандарте
+* http://es6katas.org/ - решаем свалившиеся тесты, закрепляем полученные знания :)
+* https://github.com/lukehoban/es6features - краткое описание фич и примеры к ним
 * https://github.com/paulkogel/simple-babel-webpack-template - готовый шаблон для новичков с минимальным функционалом Babel + Webpack + React
 * https://github.com/este/este - очень функциональный шаблон (не для новичков)
 * https://github.com/ericdouglas/ES6-Learning - огромная база полезных ресурсов!
 * http://css-live.ru/articles/obzor-es6-v-350-punktax.html - краткий обзор фич стандарта
+* https://egghead.io/courses/learn-es6-ecmascript-2015 - хорошие уроки, содержательный сайт
 * https://learn.javascript.ru/es-modern - удобный и всеми любимый учебник
 * http://exploringjs.com/es6/ - детальный учебник
 * https://www.youtube.com/watch?v=sBzRwzY7G-k видео-обзор необходимых для изучения технологий начинающему JavaScript разработчику в 2016/2017 году
-* https://egghead.io/ - описание на главной странице сайта соответствует действительности :)
 * https://www.youtube.com/user/learncodeacademy/playlists - хорошие видео-уроки
 * http://nodetuts.com/ Node туториалы
 * http://survivejs.com/webpack/introduction/ - книга по Webpack
@@ -45,6 +48,8 @@
 * https://github.com/promises-aplus/promises-spec - стандарт Промисов/А+
 * http://frontender.info/promises/ - промисы
 * https://ponyfoo.com/articles/es6-promises-in-depth - промисы
+* https://github.com/petkaantonov/bluebird - промисы на стероидах
+* https://github.com/kriskowal/q - промисы на стероидах 2
 * http://frontender.info/es6-in-depth-symbols/ - символы
 * http://www.2ality.com/2015/01/es6-maps-sets.html - maps, sets
 * https://ponyfoo.com/articles/es6-maps-in-depth - maps
