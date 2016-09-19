@@ -1,17 +1,26 @@
 # ECMAScript 6
 
-### Самые полезные материалы
+### Самые полезные материалы:
 
-* http://frontend-science.com/ Front-end Science
 * https://goo.gl/o8EP24 - Слайды из доклада :)
+* http://frontend-science.com/ Front-end Science
 * https://kangax.github.io/compat-table/es6/ - табличка совместимости
-* https://github.com/ericdouglas/ES6-Learning - Огромная база полезных ресурсов!
+* https://github.com/ericdouglas/ES6-Learning - огромная база полезных ресурсов!
 * http://css-live.ru/articles/obzor-es6-v-350-punktax.html - краткий обзор фич стандарта
-* https://learn.javascript.ru/es-modern - удобный и информативный учебник!
-* http://exploringjs.com/es6/ - детальный учебник!
+* https://learn.javascript.ru/es-modern - удобный и всеми любимый учебник
+* http://exploringjs.com/es6/ - детальный учебник
 * https://www.youtube.com/watch?v=sBzRwzY7G-k видео-обзор необходимых для изучения технологий начинающему JavaScript разработчику в 2016/2017 году
+* https://egghead.io/ - описание на главной странице сайта соответствует действительности :)
+* https://www.youtube.com/user/learncodeacademy/playlists - хорошие видео-уроки
+* http://nodetuts.com/ Node туториалы
+* http://survivejs.com/webpack/introduction/ - книга по Webpack
+* https://scotch.io/tutorials - много подробных туториалов
+* https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q - полезные небольшие видео-уроки
+* http://largescalejs.ru/ - книга, немного о паттернах
+* https://addyosmani.com/resources/essentialjsdesignpatterns/book/ - книга, чуть больше о паттернах :)
+* https://devmastery.com/ - рассылка только полезных материалов и тем
 
-### Полезные материалы
+### Полезные материалы по теме:
 * http://getinstance.info/articles/javascript/5-javascript-bad-parts-that-are-fixed-in-es6/ - 5 недостатков JavaScript, исправленных в ES6
 * http://codeutopia.net/blog/2015/01/06/es6-what-are-the-benefits-of-the-new-features-in-practice/ - профиты от использования нового стандарта
 * http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/ - использование ЕС6 в браузере с Babel & Webpack
